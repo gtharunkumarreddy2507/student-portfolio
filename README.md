@@ -1,108 +1,96 @@
-# student-portfolio
-# 👋 Hi, I'm Gaggalapalli Tharun Kumar Reddy
+# 👨‍🎓 Student Portfolio
 
-## 🎓 Student Portfolio
+![Profile](profile.jpeg)
 
-Welcome to my GitHub Portfolio! I am a Computer Science student passionate about Web Development, Java, Salesforce, and Open Source. I enjoy learning new technologies and building practical software solutions.
+## 👋 Introduction
 
----
+Hello! My name is **Your Name**. I am a *student* interested in technology, programming, and web development.
 
-# 🙋 About Me
-
-- 🎓 B.Tech Computer Science Student
-- 💻 Passionate Full Stack Web Developer
-- ☁️ Learning Salesforce & Cloud Technologies
-- 🌱 Currently improving my React.js and Node.js skills
-- 🚀 Interested in Software Development and AI
+I am passionate about learning new technologies and building useful projects. 🚀
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-| Qualification | Institution | Year | Percentage/CGPA |
-|--------------|------------|------|-----------------|
-| B.Tech (CSE) | MGIT | 2023 - 2027 | 8.5 CGPA |
-| Intermediate | Narayana jr collage| 2021 - 2023 | 92% |
-| SSC | Telangana state sports school | 2021 | 98% |
+| Qualification | Institution | Year |
+|---|---|---|
+| Bachelor's Degree | Your College Name | 2026 |
+| Higher Secondary | Your School Name | 2022 |
+| Secondary School | Your School Name | 2020 |
 
 ---
 
-# 💻 Technical Skills
+## 💻 Skills
 
-## Programming Languages
+- **Programming:** C, C++, Java, Python
+- **Web Development:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Tools:** Git, GitHub
+- *Problem Solving*
+- *Communication*
 
-- Java
-- JavaScript
-- Python
+---
 
-## Web Technologies
+## 🚀 Projects
 
-- HTML5
-- CSS3
-- JavaScript
-## Database
+### 1. Event Registration Form
 
-- MySQL
+Created a simple **HTML-based event registration form**.
 
-## Tools
+**Technologies used:**
+- HTML
+- CSS
 
-- Git
+### 2. Student Portfolio
+
+Created a personal portfolio using **Markdown and GitHub**.
+
+**Technologies used:**
+- Markdown
 - GitHub
-- VS Code
----
-
-# 🚀 Projects
-
-| Project | Description | Technologies |
-|---------|-------------|-------------|
-| Event Management System | Web application to manage events | HTML, CSS, JavaScript |
-| React Todo App | Task management application | React.js |
-| Student Portfolio | Personal GitHub Portfolio | Markdown |
 
 ---
 
-# 🏆 Certifications
-- ✅ Java Programming Certification
-- ✅ Web Development Certification
-- ✅ SQL Certification
----
-# 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtharunkumarreddy2507&show_icons=true&theme=tokyonight)
----
+## 🏆 Certifications
 
-# 🖼️ Profile Image
-![GitHub Logo](https://static.vecteezy.com/system/resources/thumbnails/032/176/197/small/business-avatar-profile-black-icon-man-of-user-symbol-in-trendy-flat-style-isolated-on-male-profile-people-diverse-face-for-social-network-or-web-vector.jpg)
-
----
-# 🌐 Connect With Me
-
-- **GitHub:** https://github.com/gtharunkumarreddy2507
-- **LinkedIn:** https://www.linkedin.com/in/gtharunkumarreddy
-- **Email:** gtharunkumarreddy_cse2405m4@mgit.ac.in
+- 🥇 Introduction to Programming
+- 🥇 Web Development Fundamentals
+- 🥇 Git and GitHub Basics
 
 ---
 
-# 🛠️ Languages & Tools
+## 📊 GitHub Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
----
-# ✨ Hobbies
-- 📚 Learning New Technologies
-- 💻 Coding
-- 🎮 Gaming
----
-# 📈 Career Objective
-
-To secure a challenging software development role where I can apply my programming skills, continuously learn new technologies, and contribute to innovative projects.
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![GitHub](https://img.shields.io/badge/GitHub-black)
 
 ---
 
-## ⭐ Thank You for Visiting My Portfolio!
+## 📫 Contact Information
 
+**Email:** your-email@example.com
 
+**GitHub:** [Visit my GitHub](https://github.com/gtharunkumarreddy2507)
+
+**LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/your-profile/)
+
+---
+
+## 🌟 Interests
+
+- Web Development 🌐
+- Programming 💻
+- Learning New Technologies 📚
+- Building Projects 🚀
+
+---
+
+> "Learning never stops. Every project is an opportunity to improve."
+
+---
+
+### Thank You! 😊
+
+Thank you for visiting my student portfolio.
